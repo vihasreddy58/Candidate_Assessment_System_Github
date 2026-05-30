@@ -1,7 +1,7 @@
-# SkillVerify - GitHub Hiring Analysis System
+# SkillVerify - GitHub Candidate Assessment System
 
 ## 1. Project Description
-SkillVerify is a GitHub-based hiring analysis platform. It ingests resumes (PDF/DOCX) or a bulk ZIP of resumes, extracts the candidate's GitHub profile, analyzes repositories and activity, compares resume skills to GitHub evidence, and generates a comprehensive report with scoring and recommendations. The frontend presents dashboards and can request a PDF rendered from the HTML report for professional output.
+SkillVerify is a GitHub-based candidate assessment platform. It ingests resumes (PDF/DOCX) or a bulk ZIP of resumes, extracts the candidate's GitHub profile, analyzes repositories and activity, compares resume skills to GitHub evidence, and generates a comprehensive report with scoring and recommendations. The frontend presents dashboards and can request a PDF rendered from the HTML report for professional output.
 
 ## 2. Setup
 
